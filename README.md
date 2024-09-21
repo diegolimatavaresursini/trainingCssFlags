@@ -1,2 +1,2 @@
 # trainingCssFlags
-Test training Flags in Css, Russian flag.
+Test training Flags in Css, France flag.
